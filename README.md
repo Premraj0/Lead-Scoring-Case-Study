@@ -1,4 +1,4 @@
-# Lead-Scroing-Case-Study
+# Lead-Scoring-Case-Study
 Build a logistic regression model to assign a lead score between 0 and 100 to each of the  leads which can be used by the company to target potential leads.
 The analysis was conducted for X Education with the aim of increasing the enrollment of 
 industry professionals in their courses. The initial data provided valuable insights into the 
